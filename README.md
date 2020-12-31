@@ -2,11 +2,11 @@
 
 Two users: admin and asd
 
-User1:
+User1:  
 username: admin  
 password: admin
 
-User2:
+User2:  
 username: asd  
 password: asd
 
